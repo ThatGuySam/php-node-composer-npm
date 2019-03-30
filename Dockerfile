@@ -1,5 +1,5 @@
 FROM php:7.2
-LABEL maintainer="m.pich@outlook.com"
+LABEL maintainer="sam@sam.lc"
 
 RUN apt-get update && apt-get install -y \
         git \
